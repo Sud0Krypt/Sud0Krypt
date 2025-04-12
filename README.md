@@ -13,8 +13,6 @@ Python, JavaScript, C, WASM
 **Targets Reversed:**  
 Kasada, PerimeterX, Funcaptcha (Arkose Labs), AWS WAF
 
-**Skills:**  
-Reverse Engineering
 
 ---
 
