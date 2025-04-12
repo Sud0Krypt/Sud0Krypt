@@ -3,8 +3,10 @@
 > Specialized in CAPTCHA bypassing and reverse engineering.
 
 **Contact:**  
-Telegram: [@sudodaemonn] (https://t.me/sudodaemonn)  
-Channel: [Join Here] (https://t.me/+qP9G-_ii_XA1MGIx)  
+Telegram: [@sudodaemonn](https://t.me/sudodaemonn)
+
+Channel: [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
+
 Discord: *banned – no Discord for now*
 
 **Technologies:**  
